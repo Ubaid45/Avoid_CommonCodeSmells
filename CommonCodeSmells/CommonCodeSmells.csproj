@@ -44,6 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LongParameterList\BetterLongParameterList.cs" />
+    <Compile Include="LongParameterList\DateRange.cs" />
+    <Compile Include="LongParameterList\PoorLongParameterList.cs" />
+    <Compile Include="LongParameterList\ReservationQuery.cs" />
     <Compile Include="Names\MeaningfulNames.cs" />
     <Compile Include="Names\PoorNames.cs" />
     <Compile Include="MethodSignatures\MeaningfulMethodSignatures.cs" />
