@@ -46,6 +46,8 @@
   <ItemGroup>
     <Compile Include="Names\MeaningfulNames.cs" />
     <Compile Include="Names\PoorNames.cs" />
+    <Compile Include="MethodSignatures\MeaningfulMethodSignatures.cs" />
+    <Compile Include="MethodSignatures\PoorMethodSignatures.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
