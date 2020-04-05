@@ -58,6 +58,8 @@
     <Compile Include="OutputParameters\WrongOutputParameters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VariableDeclarationsAtTheTop\MeaningfulPayCalculator.cs" />
+    <Compile Include="VariableDeclarationsAtTheTop\PoorPayCalculator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
