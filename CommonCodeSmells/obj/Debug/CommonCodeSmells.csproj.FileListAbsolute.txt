@@ -1,0 +1,7 @@
+C:\Users\Ubaid Rana\source\repos\CommonCodeSmells\CommonCodeSmells\bin\Debug\CommonCodeSmells.exe.config
+C:\Users\Ubaid Rana\source\repos\CommonCodeSmells\CommonCodeSmells\bin\Debug\CommonCodeSmells.exe
+C:\Users\Ubaid Rana\source\repos\CommonCodeSmells\CommonCodeSmells\bin\Debug\CommonCodeSmells.pdb
+C:\Users\Ubaid Rana\source\repos\CommonCodeSmells\CommonCodeSmells\obj\Debug\CommonCodeSmells.csprojAssemblyReference.cache
+C:\Users\Ubaid Rana\source\repos\CommonCodeSmells\CommonCodeSmells\obj\Debug\CommonCodeSmells.csproj.CoreCompileInputs.cache
+C:\Users\Ubaid Rana\source\repos\CommonCodeSmells\CommonCodeSmells\obj\Debug\CommonCodeSmells.exe
+C:\Users\Ubaid Rana\source\repos\CommonCodeSmells\CommonCodeSmells\obj\Debug\CommonCodeSmells.pdb
