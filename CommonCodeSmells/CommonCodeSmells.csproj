@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Comments\Comments.cs" />
+    <Compile Include="DuplicatedCode\DuplicatedCode.cs" />
     <Compile Include="LongParameterList\BetterLongParameterList.cs" />
     <Compile Include="LongParameterList\DateRange.cs" />
     <Compile Include="LongParameterList\PoorLongParameterList.cs" />
@@ -56,11 +57,18 @@
     <Compile Include="Names\PoorNames.cs" />
     <Compile Include="MethodSignatures\MeaningfulMethodSignatures.cs" />
     <Compile Include="MethodSignatures\PoorMethodSignatures.cs" />
+    <Compile Include="NestedConditionals\MeaningfulPoorNestedConditionals.cs" />
+    <Compile Include="NestedConditionals\PoorNestedConditionals.cs" />
     <Compile Include="OutputParameters\GetCustomerResults.cs" />
     <Compile Include="OutputParameters\MeaningfulOutputParameters.cs" />
     <Compile Include="OutputParameters\WrongOutputParameters.cs" />
+    <Compile Include="PoorOrderingOfClassMembers\PoorOrderingOfClassMembers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SwitchStatements\Customer.cs" />
+    <Compile Include="SwitchStatements\MonthlyStatement.cs" />
+    <Compile Include="SwitchStatements\MonthlyUsage.cs" />
+    <Compile Include="Tuples\Tuples.cs" />
     <Compile Include="VariableDeclarationsAtTheTop\MeaningfulPayCalculator.cs" />
     <Compile Include="VariableDeclarationsAtTheTop\PoorPayCalculator.cs" />
   </ItemGroup>
