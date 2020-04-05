@@ -49,6 +49,9 @@
     <Compile Include="LongParameterList\DateRange.cs" />
     <Compile Include="LongParameterList\PoorLongParameterList.cs" />
     <Compile Include="LongParameterList\ReservationQuery.cs" />
+    <Compile Include="MagicNumbers\DocumentStatus.cs" />
+    <Compile Include="MagicNumbers\MeaningfulMagicNumbers.cs" />
+    <Compile Include="MagicNumbers\PoorMagicNumbers.cs" />
     <Compile Include="Names\MeaningfulNames.cs" />
     <Compile Include="Names\PoorNames.cs" />
     <Compile Include="MethodSignatures\MeaningfulMethodSignatures.cs" />
