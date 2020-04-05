@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Comments\Comments.cs" />
     <Compile Include="LongParameterList\BetterLongParameterList.cs" />
     <Compile Include="LongParameterList\DateRange.cs" />
     <Compile Include="LongParameterList\PoorLongParameterList.cs" />
@@ -52,6 +53,9 @@
     <Compile Include="Names\PoorNames.cs" />
     <Compile Include="MethodSignatures\MeaningfulMethodSignatures.cs" />
     <Compile Include="MethodSignatures\PoorMethodSignatures.cs" />
+    <Compile Include="OutputParameters\GetCustomerResults.cs" />
+    <Compile Include="OutputParameters\MeaningfulOutputParameters.cs" />
+    <Compile Include="OutputParameters\WrongOutputParameters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

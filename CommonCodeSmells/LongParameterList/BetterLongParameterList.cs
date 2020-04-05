@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using CommonCodeSmells.Better_LongParameterList;
 
-namespace CommonCodeSmells.Better_LongParameterList
+namespace CommonCodeSmells.BetterLongParameterList
 {
     public class BetterLongParameterList
     {
