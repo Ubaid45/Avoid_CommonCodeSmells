@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="CancelReservationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SwitchStatements\MonthlyStatementTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

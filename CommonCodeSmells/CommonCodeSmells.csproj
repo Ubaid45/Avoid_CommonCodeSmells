@@ -65,9 +65,14 @@
     <Compile Include="PoorOrderingOfClassMembers\PoorOrderingOfClassMembers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SwitchStatements\Customer.cs" />
-    <Compile Include="SwitchStatements\MonthlyStatement.cs" />
-    <Compile Include="SwitchStatements\MonthlyUsage.cs" />
+    <Compile Include="SwitchStatements\Problem\Customer.cs" />
+    <Compile Include="SwitchStatements\Problem\MonthlyStatement.cs" />
+    <Compile Include="SwitchStatements\Problem\MonthlyUsage.cs" />
+    <Compile Include="SwitchStatements\Solution\Customer.cs" />
+    <Compile Include="SwitchStatements\Solution\MonthlyStatement.cs" />
+    <Compile Include="SwitchStatements\Solution\MonthlyUsage.cs" />
+    <Compile Include="SwitchStatements\Solution\PayAsYouGoCustomer.cs" />
+    <Compile Include="SwitchStatements\Solution\UnlimitedCustomer.cs" />
     <Compile Include="Tuples\Tuples.cs" />
     <Compile Include="VariableDeclarationsAtTheTop\MeaningfulPayCalculator.cs" />
     <Compile Include="VariableDeclarationsAtTheTop\PoorPayCalculator.cs" />
@@ -75,5 +80,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
