@@ -44,7 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Comments\Comments.cs" />
+    <Compile Include="Comments\MeaningfulComments.cs" />
+    <Compile Include="Comments\BadComments.cs" />
     <Compile Include="DuplicatedCode\FixedDuplicatedCode.cs" />
     <Compile Include="DuplicatedCode\DuplicatedCode.cs" />
     <Compile Include="DuplicatedCode\Time.cs" />
