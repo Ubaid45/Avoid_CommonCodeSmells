@@ -34,8 +34,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -49,6 +51,14 @@
     <Compile Include="DuplicatedCode\FixedDuplicatedCode.cs" />
     <Compile Include="DuplicatedCode\DuplicatedCode.cs" />
     <Compile Include="DuplicatedCode\Time.cs" />
+    <Compile Include="LongMethods\BetterWay\Example1.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LongMethods\BetterWay\DataTableToCsvMapper.cs" />
+    <Compile Include="LongMethods\BetterWay\TableReader.cs" />
+    <Compile Include="LongMethods\PoorWay\Example1.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="LongParameterList\BetterLongParameterList.cs" />
     <Compile Include="LongParameterList\DateRange.cs" />
     <Compile Include="LongParameterList\PoorLongParameterList.cs" />
