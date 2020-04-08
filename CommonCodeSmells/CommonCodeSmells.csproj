@@ -51,6 +51,13 @@
     <Compile Include="DuplicatedCode\FixedDuplicatedCode.cs" />
     <Compile Include="DuplicatedCode\DuplicatedCode.cs" />
     <Compile Include="DuplicatedCode\Time.cs" />
+    <Compile Include="FullRefactoring\Better Way\Example1.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FullRefactoring\Better Way\PostRepository.cs" />
+    <Compile Include="FullRefactoring\Poor Way\Example1.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="LongMethods\BetterWay\Example1.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
